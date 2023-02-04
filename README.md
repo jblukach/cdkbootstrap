@@ -3,7 +3,7 @@
 ### CDK Install
 
 ```
-npm install -g aws-cdk@2.25.0
+npm install -g aws-cdk@2.34.0
 ```
 
 ### Bootstrap Template
@@ -22,3 +22,4 @@ export CDK_NEW_BOOTSTRAP=1 && cdk bootstrap --show-template > cdk.yaml
 11. 2.18.0
 12. 2.20.0
 13. 2.25.0
+14. 2.34.0
