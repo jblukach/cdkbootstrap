@@ -3,7 +3,7 @@
 ### CDK Install
 
 ```
-npm install -g aws-cdk@2.62.0
+npm install -g aws-cdk@2.68.0
 ```
 
 ### Bootstrap Template
